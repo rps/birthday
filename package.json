@@ -1,12 +1,12 @@
 {
-  "name": "mean",
-  "description": "MEAN - A Modern Stack: MongoDB, ExpressJS, AngularJS, NodeJS. (BONUS: Passport User Support).",
+  "name": "Birthday",
+  "description": "Never forget a birthday again.",
   "version": "0.1.2",
   "private": false,
-  "author": "Amos Haviv",
+  "author": "Rich Parrish, Peter Hayes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linnovate/mean.git"
+    "url": "https://github.com/rps/birthday.git"
   },
   "engines": {
     "node": "0.10.x",
